@@ -7,10 +7,6 @@
 <title>Hello World</title>
 </head>
 <body>
-<<<<<<< HEAD
 Hello World!! hi dear sir higsdag gghg hi no
-=======
-Hello World!! hi dear sir higsdag gghg hi no eeeeeeeee
->>>>>>> 96160d7421ac3cb8bc1a3753b518d8613c091583
 </body>
 </html>
